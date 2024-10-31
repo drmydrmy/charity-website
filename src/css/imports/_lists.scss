@@ -1,1 +1,5 @@
 .list { list-style-type: none; }
+
+.list-circle { list-style-type: disc; }
+
+.marker-primary { li::marker { color: var(--primary); } }
