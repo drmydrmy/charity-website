@@ -916,3 +916,13 @@
   .mhn2-l { margin-left: -var(--spacing-small); margin-right: -var(--spacing-small); }
   .mhn3-l { margin-left: -var(--spacing-medium); margin-right: -var(--spacing-medium); }
 }
+
+.jumbotron {
+  margin-top: 51.84px;
+}
+
+@media (--breakpoint-large) {
+  .jumbotron {
+    margin-top: 77px;
+  }
+}
