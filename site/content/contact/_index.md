@@ -1,19 +1,13 @@
 ---
-title: "Contact"
-logo: "/img/logo.svg"
+title: Контакты
+logo: img/logo1.jpg
 contact_entries:
-  - heading: Location
-    text: "3153 Lynn Avenue, South San Francisco, California 94080"
-  - heading: Working hours
-    text: "Monday – Saturday: 9AM – 7PM We’re closed on Sundays"
+  - heading: Юридический адрес
+    text: 238028, Калининградская область, г. Калининград, ул. Щепкина, д.51
+  - heading: Почтовый адрес
+    text: 108805, г. Москва, д. Руднево, ул. Кленовая, д.40/1
+  - heading: Телефон
+    text: "+79173452121"
+  - heading: Адрес электронной почты
+    text: svfran@ya.ru
 ---
-
-We’d love to get in touch with you and hear your ideas and
-questions. We strive to grow and improve constantly and your feedback
-is valuable for us.
-
-<h3 class="f4 b lh-title mb2">How can I get…?</h3>
-
-You can also use the form below for any inquiries about coffee
-availability, monthly subscriptions and scheduling a 1-on-1 session
-with our baristas. Don’t be shy, drop us a line!
