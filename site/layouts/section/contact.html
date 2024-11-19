@@ -1,23 +1,33 @@
 {{ define "main" }}
 
+
+
 <div class="ph3 bg-off-white">
 	<div class="center mw6 pv3">
-
 		<img src="{{ .Params.logo }}" alt="" class="db w4 center pv4">
 
 		{{ .Content }}
 
-		<div class="flex-ns mb3">
+		<div class="flex-ns mb3 justify-between-ns tc">
 	        	{{ range .Params.contact_entries }}
-				<div>
-					<h4 class="f4 b lh-title mb2 primary">{{ .heading }}</h4>
+				<div class="mr3">
+					<h4 class="f4 b lh-title mb2 center primary">{{ .heading }}</h4>
 					<p>{{ .text }}</p>
 				</div>
 			{{ end }}
 		</div>
-
-		{{ partial "contact-form" . }}
-
+		<div class="tc">
+			<h4 class="f4 b lh-title mb2 center primary">Реквезиты для пожертвований</h4>
+			<p>Организация: БЛАГОТВОРИТЕЛЬНЫЙ ФОНД "ДОБРОЕ СЕРДЦЕ" <br/>
+				ИНН организации: 3906901345<br/>
+				КПП организации: 390601001<br/>
+				Счёт: 40703810724842000002<br/>
+				Банк: ФИЛИАЛ "ЦЕНТРАЛЬНЫЙ" БАНКА ВТБ (ПАО)<br/>
+				Корр. счёт: 30101810145250000411<br/>
+				БИК: 044525411</p>
+			<h5 class="f4 b lh-title center primary">QR-код с реквизитами счёта</h3>
+				<img src="/img/qrcode.png" alt="" class="db w4 center pv2">
+		</div>
 	</div>
 </div>
 

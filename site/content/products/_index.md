@@ -1,96 +1,47 @@
 ---
-title: Our Coffee
+title: О нас
 type: products
-image: /img/products-jumbotron.jpg
+image: /img/home-jumbotron.jpg
 intro:
-  heading: What we offer
+  heading: Наша деятельность
   description: >-
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee production,
-    roasting and brewing seriously and we’re glad to pass that knowledge to
-    anyone.
+    Благотворительный фонд «Доброе сердце» был создан в 2011 году в целях формирования 
+    имущества и средств на основе добровольных взносов для осуществления
+     благотворительной деятельности, направленной на: 
   blurbs:
-    - image: /img/illustrations-coffee.svg
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/illustrations-coffee-gear.svg
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/illustrations-tutorials.svg
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/illustrations-meeting-space.svg
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - text: >
+        Реализацию программ помощи инвалидам, малоимущим гражданам, лицам не имеющим жилья (бездомным) и другим категориям социально незащищенных лиц, путем оказания материальной и иной помощи, в том числе через развитие и внедрение инструментов благотворительности, связанных с использованием сети Интернет, создание и использование эффективной системы привлечения и распределения пожертвований от физических и юридических лиц
+    - text: >
+        Поддержку инициатив граждан и юридических лиц, направленных на решение социальных, благотворительных, культурных, образовательных и иных общественно значимых проблем
+    - text: >
+        Стимулирование интереса общества к людям с ограниченными физическими возможностями и продвижение спорта среди людей и групп людей с ограниченными физическими возможностями
+    - text: >
+        Помощь в улучшении условий существования инвалидам, малоимущим гражданам и другим категориям социально незащищенных лиц
+    - text: >
+        Содействие в организации различных видов социальной и медицинской помощи, услуг и форм обслуживания инвалидов, пенсионеров, малоимущих граждан и другим категориям социально незащищенных лиц
+    - text: >
+        Содействие в оказании конкретной помощи инвалидам в решении вопросов медицинской реабилитации, социально-культурных и жилищно-бытовых вопросов, а также организациям, оказываемым инвалидам такую помощь
+    - text: >
+        Содействие организации безопасного и комфортного пространства для инвалидов, малоимущих граждан и другим категориям социально незащищенных лиц
+    - text: >
+        Оказание адресной помощи инвалидам, малоимущим гражданам и другим категориям социально незащищенных лиц
+    - text: >
+        Содействие развитию взаимоотношений с органами государственной власти РФ, органами местного самоуправления, юридическими и физическими лицами
+    - text: >
+        Осуществление распространения информации о своей деятельности
+    - text: >
+        Содействие осуществлению деятельности по удовлетворению потребностей физических лиц в социальных услугах, в том числе в получении медицинской помощи, торгово-бытовом обслуживании, трудоустройстве, улучшении материальных, жилищных и бытовых условий жизни
+    - text: >
+        Социальная поддержка и защита граждан, включая, улучшение материального положения малообеспеченных, социальную реабилитацию безработных, бездомных, беженцев, инвалидов и иных лиц, которые в силу своих физических, интеллектуальных особенностей и иных обстоятельств не способны самостоятельно реализовать свои права и законные интересы
+    - text: >
+        Содействие осуществлению деятельности по удовлетворению потребностей физических лиц в социальных услугах, в том числе в получении медицинской помощи, торгово-бытовом обслуживании, трудоустройстве, улучшении материальных, жилищных и бытовых условий жизни
+    - text: >
+        Содействие возрождению культурного и духовного наследия страны через финансирование строительства, восстановления и благоукрашения культовых сооружений и зданий, оказание материальной помощи религиозным организациям основных религиозных конфессий
 main:
-  heading: Great coffee with no compromises
-  description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
-  image1:
-    alt: A close-up of a paper filter filled with ground coffee
-    image: /img/products-grid3.jpg
-  image2:
-    alt: A green cup of a coffee on a wooden table
-    image: /img/products-grid2.jpg
   image3:
     alt: Coffee beans
-    image: /img/products-grid1.jpg
-testimonials:
-  - author: Elisabeth Kaurismäki
-    quote: >-
-      The first time I tried Kaldi’s coffee, I couldn’t even believe that was
-      the same thing I’ve been drinking every morning.
-  - author: Philipp Trommler
-    quote: >-
-      Kaldi is the place to go if you want the best quality coffee. I love their
-      stance on empowering farmers and transparency.
-full_image: /img/products-full-width.jpg
-pricing:
-  heading: Monthly subscriptions
-  description: >-
-    We make it easy to make great coffee a part of your life. Choose one of our
-    monthly subscription plans to receive great coffee at your doorstep each
-    month. Contact us about more details and payment info.
-  plans:
-    - description: Perfect for the drinker who likes to enjoy 1-2 cups per day.
-      items:
-        - 3 lbs of coffee per month
-        - Green or roasted beans
-        - One or two varieties of beans
-      plan: Small
-      price: '50'
-    - description: Great for avid drinkers, java-loving couples and bigger crowds
-      items:
-        - 6 lbs of coffee per month
-        - Green or roasted beans
-        - Up to 4 different varieties of beans
-      plan: Big
-      price: '80'
-    - description: Want a few tiny batches from different varieties? Try our custom plan
-      items:
-        - Whatever you need
-        - Green or roasted beans
-        - Unlimited varieties
-      plan: Custom
-      price: '?'
+    image: /img/svid.jpg
+#full_image: /img/products-full-width.jpg
 ---
 
 
