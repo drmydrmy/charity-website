@@ -3,7 +3,7 @@
 
 		<div class="f6 w-100 flex-ns mhn1-ns mb3 justify-center-ns">
 			{{ range first 3 (where .Site.RegularPages.ByTitle "Type" "post") }}
-				<div class="ph1-ns flex">
+				<div class="ph1-ns flex w-33-ns">
 					{{ .Render "li" }}
 				</div>
 			{{ end }}
